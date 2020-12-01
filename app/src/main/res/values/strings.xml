@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Modelo</string>
+    <string name="tab_text_1">Mensaje</string>
+    <string name="tab_text_2">Lista</string>
+    <string name="todo">TODO</string>
+    <string name="titulo">Enviar mensaje</string>
+    <string name="mensaje">Tu mensaje</string>
+    <string name="destino">Destinatario</string>
+    <string name="boton">Enviar</string>
+</resources>
